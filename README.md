@@ -1,6 +1,6 @@
 # Hello, I'm Ui Jeong !
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbono039%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/bono039)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbono039)](https://hits.seeyoufarm.com) 
 
 ### 🐻‍❄️ About me
 - 안녕하세요! 신입 자바 <b>백엔드</b> 개발자 한의정입니다.
@@ -12,7 +12,7 @@
 
 <br/>
 
-### 💻 Skills
+### 💻 Skill
 
 #### Back-End
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/)
