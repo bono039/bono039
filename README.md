@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=D8F6CE&height=200&section=header&text=Hello👋&fontSize=50&fontAlignY=35)
-    
-<br/>
+# Hello, I'm Ui Jeong !
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbono039%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/bono039)
 
 ### 🐻‍❄️ About me
 - 안녕하세요! 신입 자바 <b>백엔드</b> 개발자 한의정입니다.
@@ -8,7 +8,7 @@
 - 문서 작성과 기록이 습관화 되어 있습니다.
 - 지식을 공유하며 학습하는 것을 좋아합니다.
 
-![bono039's GitHub stats](https://github-readme-stats.vercel.app/api?username=bono039&show_icons=true&theme=vue)
+<!-- ![bono039's GitHub stats](https://github-readme-stats.vercel.app/api?username=bono039&show_icons=true&theme=vue) -->
 
 <br/>
 
@@ -39,8 +39,6 @@
 ### 📫 Contact
 wendyhan03@gmail.com
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbono039%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <!--
