@@ -19,6 +19,7 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/)
 [![Spring Boot](https://img.shields.io/badge/-Spring&nbsp;Boot-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://spring.io/)
+[![ORACLE](https://img.shields.io/badge/-ORACLE-F80000?style=flat&logo=oracle&logoColor=#F80000)](https://www.oracle.com/)
 
 
 #### Front-End
@@ -38,7 +39,7 @@
 
 
 ### 📫 Contact
-wendyhan03@gmail.com
+wendyhan03@naver.com
 
 
 
